@@ -1,6 +1,6 @@
 # Hi there, I'm Rhys 👋
 
-## Projects:
+### Projects:
 
 Here are some of the projects I'm working on:
 
